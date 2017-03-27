@@ -1,0 +1,54 @@
+nav {
+	background-color: lightgray;
+  	border: 1px solid lightgray;
+  	padding: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:link {
+  	text-decoration: none;
+}
+
+.logo {
+  	color: black;
+  	margin-right: 10px;
+}
+
+.rightnav {
+  	color: purple;
+  	margin-right: 10px;
+  	float: right;
+}
+
+.pagination {
+	border: 1px solid lightgray;
+	display: inline-block;
+	border-radius: 3px;
+}
+
+.pagination span {
+	border: 1px solid lightgray;
+	border-width: 0 1px 0 1px;
+}
+
+.pagination span, .pagination a {
+	padding: 10px;
+	display: inline-block;
+}
+
+label {
+	display: block;
+}
+
+.magnifying-glass {
+	width: 20px;
+	border: 1px solid lightgray;
+	display: inline-block;
+}
+.blue {
+  	color: blue;
+  	font-weight: 900;
+}
